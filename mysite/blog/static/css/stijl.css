@@ -13,6 +13,14 @@ h1{
     color: black;
 }
 
+a{
+    color: black;
+}
+
+a:hover {
+    color: #A72525;
+}
+
 .posts-container {
     background-color: #FFC1CC;
     width: 500px;
